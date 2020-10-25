@@ -9,10 +9,11 @@
 <body>
     <div class="insta-wrapper">
         <div class="insta-phone">
+            <img src="./src/phone-insta.png" alt="foto do celular">
         </div>
         <div class="insta-continue">
             <div class="group">
-                <img src="/src/insta-logo.png" class="insta-logo" alt="instagam logo">
+                <img src="./src/instagram-logo.png" class="insta-logo" alt="instagam logo">
                 <div class="profile-photo">
                     <img src="./src/neymar.jpg" alt="foto de perfil">
                 </div>
